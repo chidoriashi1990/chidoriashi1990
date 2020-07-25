@@ -29,4 +29,6 @@ CentOS  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/u
 <img src="https://raw.githubusercontent.com/grafana/grafana/master/docs/logo-horizontal.png" width=16 /> Grafana  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width=16 /> Prometheus  Loki  Promtail
 
 #### Develop tools
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/git/git-original.svg" width=16 /> Git  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/github/github-original.svg" width=16 /> GitHub  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/gitlab/gitlab-original.svg" width=16 /> GitLab  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/chrome/chrome-original.svg" width=16 /> Chrome (DevTools)  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.svg" width=96 />
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/git/git-original.svg" width=16 /> Git  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/github/github-original.svg" width=16 /> GitHub  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/gitlab/gitlab-original.svg" width=16 /> GitLab  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/chrome/chrome-original.svg" width=16 /> Chrome (DevTools)
+
+<img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.svg" width=96 />
