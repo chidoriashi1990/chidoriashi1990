@@ -1,5 +1,7 @@
 ### Hi I'm Yusuke Miyakawa 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chidoriashi1990)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tech stack
 #### Programming language
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Golang  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" width=16 /> JavaScript
@@ -24,7 +26,7 @@ CentOS  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/u
 
 #### Middleware
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/docker/docker-original.svg" width=16 /> Docker  <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width=16 /> docker-compose  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original.svg" width=16 /> Node.js  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nginx/nginx-original.svg" width=16 /> Nginx  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/postgresql/postgresql-original.svg" width=16 /> PostgreSQL  PostgREST  
-<img src="https://raw.githubusercontent.com/grafana/grafana/master/docs/logo-horizontal.png" width=16 /> Grafana  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width=16 /> Prometheus  <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/logo.png" width=16 /> Loki  Promtail
+<img src="https://raw.githubusercontent.com/grafana/grafana/master/docs/logo-horizontal.png" width=16 /> Grafana  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width=16 /> Prometheus  Loki  Promtail
 
 #### Develop tools
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/git/git-original.svg" width=16 /> Git  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/github/github-original.svg" width=16 /> GitHub  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/gitlab/gitlab-original.svg" width=16 /> GitLab  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/chrome/chrome-original.svg" width=16 /> Chrome
