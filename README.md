@@ -2,6 +2,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chidoriashi1990)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chidoriashi1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tech stack
 #### Programming language
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Golang  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" width=16 /> JavaScript
