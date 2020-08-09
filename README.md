@@ -1,5 +1,7 @@
 ### Hi I'm Yusuke Miyakawa 👋
 
+[![Twitter URL](https://img.shields.io/badge/twitter-YusukeMiyakawa-blue?style=flat-square&logo=twitter)](https://twitter.com/MiyakawaYusuke)
+
 [![Yusuke Miyakawa's github stats](https://github-readme-stats.vercel.app/api?username=chidoriashi1990)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chidoriashi1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
