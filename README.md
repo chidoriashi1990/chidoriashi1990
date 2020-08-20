@@ -8,7 +8,7 @@
 
 ### Tech stack
 #### Programming language
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Golang  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" width=16 /> JavaScript
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Golang  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" width=16 /> JavaScript <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/typescript/typescript-original.svg" width=16 /> TypeScript
 
 #### Editor
 <img src="https://github.com/microsoft/vscode-docs/blob/master/images/logo-stable.png" width=16 /> Visual studio code
