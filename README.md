@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/npm/npm-original-wordmark.svg" width=16 /> npm  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/yarn/yarn-original.svg" width=16 /> yarn
 
 #### Design tools
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/inkscape/inkscape-original.svg" width=16 /> Inkscape
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/inkscape/inkscape-original.svg" width=16 /> Inkscape <img  src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width=12 /> Figma
 
 #### OS
 CentOS  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/ubuntu/ubuntu-plain.svg" width=16 /> Ubuntu  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/apple/apple-original.svg" width=16 /> MacOS  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/windows8/windows8-original.svg" width=16 /> Windows10
