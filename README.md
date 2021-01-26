@@ -40,3 +40,6 @@ Grafana  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheu
 <img src="https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png" alt="Storybook" width=120 />
 
 <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.svg" width=96 /> <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWE-logo-clr.png" width=120 />
+
+#### Learning
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/typescript/typescript-plain.svg" width=16 /> TypeScript  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/rust/rust-plain.svg" width=16 /> Rust
