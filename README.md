@@ -1,11 +1,11 @@
 ## Hi I'm Yusuke Miyakawa 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chidoriashi1990&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chidoriashi1990&theme=solarized)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chidoriashi1990&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chidoriashi1990&theme=solarized)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chidoriashi1990&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chidoriashi1990&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chidoriashi1990&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chidoriashi1990&theme=solarized)
 
 # Tech stack
 ## Programming language
