@@ -1,6 +1,6 @@
 ## Hi I'm Yusuke Miyakawa 👋
 
-[Portfolio](https://portcup.github.io/portfoliem/)
+[Portfolio](https://chidoriashi1990.github.io/portfoliem/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chidoriashi1990&theme=solarized)
 
