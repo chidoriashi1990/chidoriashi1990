@@ -1,7 +1,5 @@
 ## Hi I'm Yusuke Miyakawa 👋
 
-[Portfolio](https://chidoriashi1990.github.io/portfolio/)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chidoriashi1990&theme=solarized)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chidoriashi1990&theme=solarized)
