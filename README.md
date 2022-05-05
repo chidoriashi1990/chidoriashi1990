@@ -29,8 +29,8 @@
 ## OS
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/ubuntu/ubuntu-plain.svg" width=16 /> Ubuntu  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/apple/apple-original.svg" width=16 /> MacOS  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/windows8/windows8-original.svg" width=16 /> Windows10
 
-## Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=128 />
+## Public Cloud
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width=64 />
 
 ## Middleware
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/docker/docker-original.svg" width=16 /> Docker  <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width=16 /> docker-compose  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original.svg" width=16 /> Node.js  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nginx/nginx-original.svg" width=16 /> Nginx  
