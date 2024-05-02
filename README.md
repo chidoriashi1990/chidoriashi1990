@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Golang  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" width=16 /> JavaScript  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" width=16 /> Python
 
 ## Editor
-<img src="https://github.com/microsoft/vscode-docs/blob/master/images/logo-stable.png" width=16 /> Visual Studio Code
+Visual Studio Code
 
 ## Markup language
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/html5/html5-original.svg" width=16 /> HTML5  <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/markdown-16.svg" width=16 /> Markdown
