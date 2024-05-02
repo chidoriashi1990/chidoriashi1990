@@ -9,7 +9,7 @@
 
 # Tech stack
 ## Programming language
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Golang  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" width=16 /> JavaScript  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" width=16 /> Python
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" width=16 /> JavaScript <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/typescript/typescript-plain.svg" width=16 /> TypeScript <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" width=16 /> Python <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Golang
 
 ## Editor
 Visual Studio Code
@@ -18,7 +18,7 @@ Visual Studio Code
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/html5/html5-original.svg" width=16 /> HTML5  <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/markdown-16.svg" width=16 /> Markdown
 
 ## Frameworks
-<img src="https://github.com/konpa/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=16 /> Vue.js  <img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" width=16 />Vuetify  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width=16 /> Nuxt.js
+<img src="https://github.com/konpa/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=16 /> Vue.js  <img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" width=16 />Vuetify  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width=16 /> Nuxt.js <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" width=16 /> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" width=16 /> Next.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width=16 /> Nest.js
 
 ## Package manager
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/npm/npm-original-wordmark.svg" width=16 /> npm  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/yarn/yarn-original.svg" width=16 /> yarn
@@ -44,7 +44,7 @@ Grafana  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheu
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/git/git-original.svg" width=16 /> Git  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/github/github-original.svg" width=16 /> GitHub  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/gitlab/gitlab-original.svg" width=16 /> GitLab  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/chrome/chrome-original.svg" width=16 /> Chrome (DevTools)  Swagger
 
 ## Learning
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" width=16 /> React <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/typescript/typescript-plain.svg" width=16 /> TypeScript  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/rust/rust-plain.svg" width=16 /> Rust  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 /> Kubernetes 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=16 /> Rust  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 /> Kubernetes 
 
 ## Certification
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/415590ab-162e-4235-b165-efae684da88c/public_url)
