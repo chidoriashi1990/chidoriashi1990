@@ -46,6 +46,15 @@ Grafana  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheu
 ## Learning
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" width=16 /> React <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/typescript/typescript-plain.svg" width=16 /> TypeScript  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/rust/rust-plain.svg" width=16 /> Rust  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 /> Kubernetes 
 
+## Certification
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/415590ab-162e-4235-b165-efae684da88c/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5622055f-5c16-450d-a78a-da74b2a0675c/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5b27dd1c-90a7-4e2e-aeb6-e487b43ba9a6/public_url)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/6e3a67ab-cba4-4453-85de-7d9fa5ad01cb/public_url)
+- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/296a8212-aad2-4082-bd29-a867f48acd89/public_url)
+- [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/ffd8a630-fec2-4f90-af8a-9c630e8f2ef0/public_url)
+- 応用情報技術者試験
+- G検定
 
 # 🎉 Sponsor
 <pre>
