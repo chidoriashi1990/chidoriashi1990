@@ -53,8 +53,8 @@ Grafana  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheu
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/6e3a67ab-cba4-4453-85de-7d9fa5ad01cb/public_url)
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/296a8212-aad2-4082-bd29-a867f48acd89/public_url)
 - [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/ffd8a630-fec2-4f90-af8a-9c630e8f2ef0/public_url)
-- 応用情報技術者試験
-- G検定
+- Applied Information Technology Engineer Examination - 応用情報技術者試験
+- JDLA Deep Learning for GENERAL - G検定
 
 # 🎉 Sponsor
 <pre>
